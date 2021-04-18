@@ -1,6 +1,6 @@
 # Mailer-For-Windows
 ## Mailer
-###Sobre el uso
+### Sobre el uso
 1. Deberás configurar tu email y este deberá ser tipo GMAIL, es importante que inicies sesión en tu cuenta y des click en el siguiente enlace: 
  https://www.google.com/settings/security/lesssecureapps
 
